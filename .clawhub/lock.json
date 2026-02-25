@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "skills": {
+    "coding": {
+      "version": "1.0.3",
+      "installedAt": 1771943821443
+    },
+    "automation-workflows": {
+      "version": "0.1.0",
+      "installedAt": 1771954517344
+    }
+  }
+}
