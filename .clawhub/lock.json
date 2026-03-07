@@ -8,6 +8,14 @@
     "automation-workflows": {
       "version": "0.1.0",
       "installedAt": 1771954517344
+    },
+    "x-tweet-fetcher": {
+      "version": "0.1.0",
+      "installedAt": 1772388545304
+    },
+    "xiucheng-self-improving-agent": {
+      "version": "1.0.0",
+      "installedAt": 1772923561320
     }
   }
 }
